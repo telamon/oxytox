@@ -27,8 +27,9 @@ and either ask them "Wanna play?" or if you're brave go ahead and send them your
 - avoid retakes, try to send before watching it yourself.
 - don't reuse recordings, each is personal and unique.
 - don't forward personal recordings either, it's not nice. 
-- If you don't get a reply dont be dissapointed. Giving a hug can take more courage than receiving one, send another to someone else.
+- If you don't get a reply dont despair, Receiving a hug can sometimes take more courage than giving one. Send another to someone else! 👍
 - The feeling of awkwardness increases with higher durations, but so does the social stimuli.
+- 1 hug a day keeps sighs at bay.
 - tested with discord & telegram 👌
 
 [Feedback &amp; rule suggestions are welcome](https://github.com/telamon/oxytox/issues/new)
