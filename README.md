@@ -21,7 +21,6 @@ and either ask them "Wanna play?" or if you're brave go ahead and send them your
 ![oxytox](./oxytox-v1.0.1.png)
 
 ### Additional guidelines/observations
-[Feedback &amp; rule suggestions are welcome](https://github.com/telamon/oxytox/issues/new)
 
 - First time players should pick someone they've shared a hug with IRL.
 - no words! (Words can hurt while faces seldom lie and so on.. wordless humming is fine! :>).
@@ -31,6 +30,8 @@ and either ask them "Wanna play?" or if you're brave go ahead and send them your
 - don't be dissapointed if you don't get a reply. Giving a hug is half the effort.
 - The feeling of awkwardness increases with higher durations, but so does the social stimuli.
 - tested with discord & telegram 👌
+
+[Feedback &amp; rule suggestions are welcome](https://github.com/telamon/oxytox/issues/new)
 
 ## Credits
 
