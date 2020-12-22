@@ -21,6 +21,7 @@ and either ask them "Wanna play?" or if you're brave go ahead and send them your
 ![oxytox](./oxytox-v1.0.1.png)
 
 ### Additional guidelines/observations
+[Feedback &amp; rule suggestions are welcome](https://github.com/telamon/oxytox/issues/new)
 
 - First time players should pick someone they've shared a hug with IRL.
 - no words! (Words can hurt while faces seldom lie and so on.. wordless humming is fine! :>).
