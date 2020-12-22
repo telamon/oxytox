@@ -31,7 +31,7 @@ and either ask them "Wanna play?" or if you're brave go ahead and send them your
 - The feeling of awkwardness increases with higher durations, but so does the social stimuli.
 - tested with discord & telegram 👌
 
-## Donations
+## Credits
 
 ```ad
  _____                      _   _           _
@@ -60,21 +60,5 @@ drop me a penny at Patreon to help fund experiments like these.
 Patreon: https://www.patreon.com/decentlabs
 Discord: https://discord.gg/tJhmxqX
 ```
-
-
-## Changelog
-
-### 1.0.1 first release
-
-## Contributing
-
-By making a pull request, you agree to release your modifications under
-the license stated in the next section.
-
-Only changesets by human contributors will be accepted.
-
-## License
-
-[AGPL-3.0-or-later](./LICENSE)
 
 2020 &#x1f12f; Tony Ivanov
