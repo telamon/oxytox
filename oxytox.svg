@@ -15,7 +15,7 @@
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="oxytox.svg"
-   inkscape:export-filename="C:\Users\telamohn\Pictures\oxytox.png"
+   inkscape:export-filename="C:\Users\telamohn\Pictures\oxytox-v1.0.2.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -315,10 +315,10 @@
          id="tspan855-7"
          x="122.72468"
          y="209.17924"
-         style="font-size:6.35px;stroke-width:0.264583">https://discord.gg/tJhmxqX</tspan></text>
+         style="font-size:6.35px;stroke-width:0.264583">github.com/telamon/oxytox</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#50325e;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#50325e;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="188.58887"
        y="5.9191017"
        id="text857-1"><tspan
@@ -326,7 +326,7 @@
          id="tspan855-4"
          x="188.58887"
          y="5.9191017"
-         style="font-size:6.35px;stroke-width:0.264583;fill:#50325e;fill-opacity:1;"> v1.0.1</tspan></text>
+         style="font-size:6.35px;fill:#50325e;fill-opacity:1;stroke-width:0.264583"> v1.0.2</tspan></text>
     <text
        xml:space="preserve"
        id="text843-3-4"
