@@ -1,16 +1,5 @@
 # oxytox
 
-> Artificial hugs for everyone
-
-In our nonrelenting fight against long term depression,
-we propose to inject a decentralized hug virus into the meme-stream.
-
-**Expected outcome:**
-- stimulate social function
-- maintain relations
-- induce mutual oxytocin release
-- mitigate negative effects of social distancing
-
 **Release note**
 ```
 Hello World!
@@ -25,6 +14,17 @@ After response, did you feel the "hugsies"? If yes, then why?
 Merry Christmas! /DecentLabs 🎅
 ⬇️⬇️⬇️ The Game ⬇️⬇️⬇️
 ```
+
+> Artificial hugs for everyone
+
+In our nonrelenting fight against long term depression,
+we propose to inject a decentralized hug virus into the meme-stream.
+
+**Expected outcome:**
+- stimulate social function
+- maintain relations
+- induce mutual oxytocin release
+- mitigate negative effects of social distancing
 
 ## Play
 Start a new game by sharing the image below to a friend via some sort of private message (telegram/discord/fbmessgener/...)
