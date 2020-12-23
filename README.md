@@ -1,6 +1,4 @@
-# oxytox
-
-**Release note**
+_Release note_
 ```
 Hello World!
 We have a somewhat early 🎁 for you.
@@ -14,6 +12,8 @@ After response, did you feel the "hugsies"? If yes, then why?
 Merry Christmas! /DecentLabs 🎅
 ⬇️⬇️⬇️ The Game ⬇️⬇️⬇️
 ```
+
+# oxytox
 
 > Artificial hugs for everyone
 
