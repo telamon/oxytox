@@ -5,8 +5,8 @@
 Hello World!
 We have a somewhat early 🎁 for you.
 It's an experimental social game that lets you send
-real hugs to friends and family over the internet. ✨
-But it's also a tiny puzzle, can you solve it? 🤓
+real hugs to friends and family over the internet.✨
+But in truth it's a tiny puzzle, can you solve it? 🤓
 Challenge someone you're comfortable with
 or just pm an oxytox to someone who could use it.
 After response, did you feel the "hugsies"? If yes, then why?
