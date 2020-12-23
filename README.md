@@ -31,7 +31,7 @@ Start a new game by sharing the image below to a friend via some sort of private
 and either ask them "Wanna play?" or if you're brave go ahead and send them your silent greeting directly.
 (Just don't forget to send the rules/image first or things will get real awkward real fast)
 
-[Direct link](https://github.com/telamon/oxytox/raw/master/oxytox-v1.0.1.png)
+[Direct link](https://github.com/telamon/oxytox/raw/master/oxytox-v1.0.2.png)
 
 ![oxytox](./oxytox-v1.0.2.png)
 
