@@ -11,6 +11,21 @@ we propose to inject a decentralized hug virus into the meme-stream.
 - induce mutual oxytocin release
 - mitigate negative effects of social distancing
 
+**Release note**
+```
+Hello World!
+We have a somewhat early 🎁 for you.
+It's an experimental social game that lets you send
+real hugs to friends and family over the internet. ✨
+But it's also a tiny puzzle, can you solve it? 🤓
+Challenge someone you're comfortable with
+or just pm an oxytox to someone who could use it.
+After response, did you feel the "hugsies"? If yes, then why?
+
+Merry Christmas! /DecentLabs 🎅
+⬇️⬇️⬇️ The Game ⬇️⬇️⬇️
+```
+
 ## Play
 Start a new game by sharing the image below to a friend via some sort of private message (telegram/discord/fbmessgener/...)
 and either ask them "Wanna play?" or if you're brave go ahead and send them your silent greeting directly.
@@ -18,7 +33,7 @@ and either ask them "Wanna play?" or if you're brave go ahead and send them your
 
 [Direct link](https://github.com/telamon/oxytox/raw/master/oxytox-v1.0.1.png)
 
-![oxytox](./oxytox-v1.0.1.png)
+![oxytox](./oxytox-v1.0.2.png)
 
 ### Additional guidelines/observations
 
