@@ -1,13 +1,18 @@
-_Release note_
+_Release notes_
 ```
 Hello World!
 We have a somewhat early 🎁 for you.
 It's an experimental social game that lets you send
 real hugs to friends and family over the internet.✨
-But in truth it's a tiny puzzle, can you solve it? 🤓
+
+Truth is, it's also a tiny puzzle, can you solve it?
 Challenge someone you're comfortable with
 or just pm an oxytox to someone who could use it.
-After response, did you feel the "hugsies"? If yes, then why?
+
+Directly after you've exchanged cyberhugs, replay your recording followed
+by X's recording.
+When the awkwardness starts dissapearing, do you feel the "hugsies"?
+If your answer is "yes", can you explain why? 🤓
 
 Merry Christmas! /DecentLabs 🎅
 ⬇️⬇️⬇️ The Game ⬇️⬇️⬇️
@@ -31,9 +36,9 @@ Start a new game by sharing the image below to a friend via some sort of private
 and either ask them "Wanna play?" or if you're brave go ahead and send them your silent greeting directly.
 (Just don't forget to send the rules/image first or things will get real awkward real fast)
 
-[Direct link](https://github.com/telamon/oxytox/raw/master/oxytox-v1.0.2.png)
+[Direct link](https://github.com/telamon/oxytox/raw/master/oxytox-v1.0.3.png)
 
-![oxytox](./oxytox-v1.0.2.png)
+![oxytox](./oxytox-v1.0.3.png)
 
 ### Additional guidelines/observations
 
@@ -48,6 +53,15 @@ and either ask them "Wanna play?" or if you're brave go ahead and send them your
 - tested with discord & telegram 👌
 
 [Feedback &amp; rule suggestions are welcome](https://github.com/telamon/oxytox/issues/new)
+
+## Development
+
+Made with Inkscape
+and the following fonts:
+
+- https://fonts.google.com/specimen/Fredoka+One
+- https://fonts.google.com/specimen/Coiny
+- https://fonts.google.com/specimen/Modak
 
 ## Credits
 
