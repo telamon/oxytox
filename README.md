@@ -31,7 +31,7 @@ we propose to inject a decentralized hug virus into the meme-stream.
 - induce mutual oxytocin release
 - mitigate negative effects of social distancing
 
-## How to play
+## Quickstart / Walkthru
 
 Start a new game by sharing the image below to a friend via some sort of private message (telegram/discord/fbmessgener, whichever you prefer).
 
@@ -44,11 +44,19 @@ Then follow up with:
 (Just don't forget to send the rules/image first or things will get more awkward
 than necessary.🤦)
 
+After you've sent the rules and recording enter radio-silence (upto 10 minutes), trust your co-player to figure whats expected of them without further hints.
+(It is natural to humans to mimic each other's behaviour.)
+
+Once you've received their recording, rewatch both recordings starting with yours then theirs, then exit radio-silence.
+
+You should now both be experiencing a mutual euphoric rush that can be observed as a temporary increase in message activity. Feel free to discuss the experience with each other. Enjoy 😉
+
+
 **First time players:**
 - X: pick someone you've shared a hug with before.
-- Y: 2-3s is a good first greeting.
+- Y: 2-3s is a good value.
 
-### The Game
+## The Game
 
 [Direct link](https://github.com/telamon/oxytox/raw/master/oxytox-v1.0.3.png)
 
@@ -58,12 +66,12 @@ than necessary.🤦)
 
 - **NO WORDS!** (Words can hurt while silence cannot lie and so on.. wordless humming is fine! :>).
 - Smile if you feel like it 🙂
-- Show your current state. _(put on some clothes if necessary)_
+- Show your current state. _but put on some clothes if necessary_
 - avoid retakes, try to send before watching it yourself.
 - don't reuse recordings, each is personal and unique.
-- don't forward personal recordings either, it's not nice.
-- If you don't get a reply dont despair, receiving a hug can sometimes take more courage than giving one. Send another to someone else! 👍
-- The feeling of awkwardness increases with higher durations, but so does the social stimuli.
+- don't forward personal recordings, it's not nice and damages relations.
+- If you don't get a reply dont despair, accepting a hug can sometimes take more courage than giving one. Send another to someone else! 👍
+- The feeling of awkwardness increases with higher durations, and to some degree the social stimuli.
 - 1 hug a day keeps sighs at bay.
 - tested with discord & telegram 👌
 
