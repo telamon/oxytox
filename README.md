@@ -2,17 +2,17 @@ _Release notes_
 ```
 Hello World!
 We have a somewhat early 🎁 for you.
-It's an experimental social game that lets you send
-real hugs to friends and family over the internet.✨
 
-Truth is, it's also a tiny puzzle, can you solve it?
+It's an experimental social game that lets you send
+real hugs over the internet.✨
+
 Challenge someone you're comfortable with
 or just pm an oxytox to someone who could use it.
 
 Directly after you've exchanged cyberhugs, replay your recording followed
 by X's recording.
-When the awkwardness starts dissapearing, do you feel the "hugsies"?
-If your answer is "yes", can you explain why? 🤓
+When the awkwardness starts dissapearing, do you feel the "oxytoxies"?
+If your answer was "yes", can you explain why? 🤓
 
 Merry Christmas! /DecentLabs 🎅
 ⬇️⬇️⬇️ The Game ⬇️⬇️⬇️
@@ -31,10 +31,24 @@ we propose to inject a decentralized hug virus into the meme-stream.
 - induce mutual oxytocin release
 - mitigate negative effects of social distancing
 
-## Play
-Start a new game by sharing the image below to a friend via some sort of private message (telegram/discord/fbmessgener/...)
-and either ask them "Wanna play?" or if you're brave go ahead and send them your silent greeting directly.
-(Just don't forget to send the rules/image first or things will get real awkward real fast)
+## How to play
+
+Start a new game by sharing the image below to a friend via some sort of private message (telegram/discord/fbmessgener, whichever you prefer).
+
+Then follow up with:
+
+**a)** Question "Wanna play?" and await response: if yes then proceed else abort
+
+**b)** If you are brave and guerilla-hugs are appropriate within the boundaries of your relation then send your recording directly.
+
+(Just don't forget to send the rules/image first or things will get more awkward
+than necessary.🤦)
+
+**First time players:**
+- X: pick someone you've shared a hug with before.
+- Y: 2-3s is a good first greeting.
+
+### The Game
 
 [Direct link](https://github.com/telamon/oxytox/raw/master/oxytox-v1.0.3.png)
 
@@ -42,12 +56,13 @@ and either ask them "Wanna play?" or if you're brave go ahead and send them your
 
 ### Additional guidelines/observations
 
-- First time players should pick someone they've shared a hug with IRL.
-- no words! (Words can hurt while faces seldom lie and so on.. wordless humming is fine! :>).
+- **NO WORDS!** (Words can hurt while silence cannot lie and so on.. wordless humming is fine! :>).
+- Smile if you feel like it 🙂
+- Show your current state. _(put on some clothes if necessary)_
 - avoid retakes, try to send before watching it yourself.
 - don't reuse recordings, each is personal and unique.
-- don't forward personal recordings either, it's not nice. 
-- If you don't get a reply dont despair, Receiving a hug can sometimes take more courage than giving one. Send another to someone else! 👍
+- don't forward personal recordings either, it's not nice.
+- If you don't get a reply dont despair, receiving a hug can sometimes take more courage than giving one. Send another to someone else! 👍
 - The feeling of awkwardness increases with higher durations, but so does the social stimuli.
 - 1 hug a day keeps sighs at bay.
 - tested with discord & telegram 👌
