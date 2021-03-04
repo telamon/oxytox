@@ -59,7 +59,7 @@ You should now both be experiencing a mutual euphoric rush that can be observed 
 
 [Direct link](https://github.com/telamon/oxytox/raw/master/oxytox-v1.0.4.png)
 
-![oxytox](./oxytox-v1.0.3.png)
+![oxytox](./oxytox-v1.0.4.png)
 
 ### Additional guidelines/observations
 
