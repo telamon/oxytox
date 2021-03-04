@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="800"
@@ -12,13 +13,25 @@
    viewBox="0 0 211.66666 211.66667"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (unknown)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="oxytox.svg"
-   inkscape:export-filename="/home/telamon/lpro/miniverse/oxytox/oxytox-v1.0.3.png"
+   inkscape:export-filename="C:\Users\telamohn\Downloads\oxytox-v1.0.4.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1650">
+      <stop
+         style="stop-color:#00ffe6;stop-opacity:1"
+         offset="0"
+         id="stop1656" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0;"
+         offset="1"
+         id="stop1658" />
+    </linearGradient>
     <rect
        x="-117.12072"
        y="200.99816"
@@ -192,6 +205,24 @@
        width="182.54968"
        height="65.057999"
        id="rect1351" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1650"
+       id="linearGradient1654"
+       x1="36.87471"
+       y1="8.3349257"
+       x2="35.911594"
+       y2="63.692677"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1650"
+       id="linearGradient1732"
+       gradientUnits="userSpaceOnUse"
+       x1="36.87471"
+       y1="8.3349257"
+       x2="35.911594"
+       y2="63.692677" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -200,25 +231,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70331685"
-     inkscape:cx="164.08335"
-     inkscape:cy="382.47149"
+     inkscape:zoom="0.99464023"
+     inkscape:cx="186.8782"
+     inkscape:cy="452.42697"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-nodes="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      units="px"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="false"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-page="true"
-     inkscape:window-width="1596"
-     inkscape:window-height="842"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:lockguides="true"
      showguides="true"
@@ -269,7 +300,7 @@
        y="-1.0172526e-05" />
     <path
        id="rect1145"
-       style="fill:#b57af0;fill-opacity:1;stroke:none;stroke-width:0.574095;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#b57af0;fill-opacity:1;stroke:none;stroke-width:0.574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 13.389597,178.90296 c 4.823474,3.17274 182.371883,3.17274 187.193513,0 4.82162,-3.17275 4.82162,-120.028571 -1e-5,-123.203864 -4.82162,-3.175294 -182.370029,-3.175294 -187.193503,0 -4.8234739,3.175293 -4.8234739,120.031114 0,123.203864 z"
        inkscape:path-effect="#path-effect1268"
        inkscape:original-d="m 8.5661231,182.0757 c 9.6469479,0.002 187.1953569,0.002 196.8386069,0 0.001,-6.34549 0.001,-123.201311 0,-129.551898 -9.64325,0.0023 -187.191659,0.0023 -196.8386069,0 0.00137,6.350587 0.00137,123.206408 0,129.551898 z" />
@@ -288,8 +319,8 @@
 </tspan></tspan><tspan
          x="5.6132812"
          y="65.700674"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';fill:#0e0000;fill-opacity:1">2. Pick hug duration     </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';fill:#0e0000;fill-opacity:1">(1 to 5)</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';fill:#0e0000;fill-opacity:1">2. Pick hug duration       </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';fill:#0e0000;fill-opacity:1">(1 to 5 sec)</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';fill:#0e0000;fill-opacity:1">
 </tspan></tspan><tspan
          x="5.6132812"
@@ -302,7 +333,7 @@
 </tspan></tspan><tspan
          x="5.6132812"
          y="105.38805"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';fill:#0e0000;fill-opacity:1">lens and record      seconds while
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';fill:#0e0000;fill-opacity:1">lens and record       seconds while
 </tspan></tspan><tspan
          x="5.6132812"
          y="118.61718"><tspan
@@ -322,39 +353,6 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';fill:#0e0000;fill-opacity:1">recording with </tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="1.4650459"
-       y="231.15985"
-       id="text857"><tspan
-         sodipodi:role="line"
-         id="tspan855"
-         x="1.4650459"
-         y="231.15985"
-         style="font-size:6.35px;stroke-width:0.264583">CC-BY-NC-SA </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="28.18149"
-       y="256.79385"
-       id="text857-5"><tspan
-         sodipodi:role="line"
-         id="tspan855-7"
-         x="28.18149"
-         y="256.79385"
-         style="font-size:6.35px;stroke-width:0.264583">github.com/telamon/oxytox</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#50325e;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-33.656712"
-       y="235.21657"
-       id="text857-1"><tspan
-         sodipodi:role="line"
-         id="tspan855-4"
-         x="-33.656712"
-         y="235.21657"
-         style="font-size:6.35px;fill:#50325e;fill-opacity:1;stroke-width:0.264583"> v1.0.3</tspan></text>
-    <text
-       xml:space="preserve"
        id="text843-3-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;line-height:1.25;font-family:Modak;-inkscape-font-specification:Modak;text-align:center;white-space:pre;shape-inside:url(#rect845-0-7);fill:#fd94f2;fill-opacity:0.907258;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
        x="68.605415"
@@ -363,68 +361,6 @@
          x="49.335747"
          y="26.005509"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Modak;-inkscape-font-specification:Modak;text-align:center;text-anchor:middle;fill:#fd94f2;fill-opacity:0.907258">0xyTox</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text843-3-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Coiny;-inkscape-font-specification:Coiny;text-align:center;white-space:pre;shape-inside:url(#rect845-0-4);fill:#12f3bd;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
-       x="68.605415"
-       y="0"
-       transform="translate(91.927174,45.542725)"><tspan
-         x="49.560309"
-         y="23.101794"><tspan
-           style="font-size:16.9333px;fill:#12f3bd;fill-opacity:1">x</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text843-3-1-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Coiny;-inkscape-font-specification:Coiny;text-align:center;white-space:pre;shape-inside:url(#rect845-0-4-9);fill:#312ef3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
-       x="68.605415"
-       y="0"
-       transform="translate(71.142266,59.905804)"><tspan
-         x="49.517983"
-         y="23.101794"><tspan
-           style="fill:#312ef3;fill-opacity:1">y</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text843-3-1-6-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Coiny;-inkscape-font-specification:Coiny;text-align:center;white-space:pre;shape-inside:url(#rect845-0-4-9-2);fill:#312ef3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
-       x="68.605415"
-       y="0"
-       transform="translate(51.39384,98.76124)"><tspan
-         x="49.517983"
-         y="23.101794"><tspan
-           style="fill:#312ef3;fill-opacity:1">y</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text843-3-1-68"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Coiny;-inkscape-font-specification:Coiny;text-align:center;white-space:pre;shape-inside:url(#rect845-0-4-6);fill:#12f3bd;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
-       x="68.605415"
-       y="0"
-       transform="translate(67.82433,112.62276)"><tspan
-         x="49.560309"
-         y="23.101794"><tspan
-           style="font-size:16.9333px;fill:#12f3bd;fill-opacity:1">x</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text843-3-1-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Coiny;-inkscape-font-specification:Coiny;text-align:center;white-space:pre;shape-inside:url(#rect845-0-4-5);fill:#12f3bd;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
-       x="68.605415"
-       y="0"
-       transform="translate(45.209259,151.95722)"><tspan
-         x="49.560309"
-         y="23.101794"><tspan
-           style="font-size:16.9333px;fill:#12f3bd;fill-opacity:1">x</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text849-0"
-       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect851-7);fill:#2a0067;fill-opacity:1;stroke:none;"
-       transform="translate(279.69149,26.804824)"><tspan
-         x="5.6132812"
-         y="35.018652"><tspan
-           style="shape-inside:url(#rect851-7)">If it feels awkward then it's working.
-</tspan></tspan><tspan
-         x="5.6132812"
-         y="42.956152"><tspan
-           style="shape-inside:url(#rect851-7)">Because hugs are awkward but also nice :&gt;</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text843-8"
@@ -544,21 +480,12 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:108.045;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-127.8835"
-       y="184.41124"
-       id="text857-5-7"><tspan
-         x="-127.8835"
-         y="184.41124"><tspan
-           style="font-size:6.35px;stroke-width:0.264583">github.com/telamon/oxytox</tspan></tspan></text>
-    <text
-       xml:space="preserve"
        id="text1105"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1107);fill:#000000;fill-opacity:1;stroke:none;"
        transform="translate(118.44701,-11.674806)"><tspan
          x="-117.12109"
          y="206.61631"><tspan
-           style="font-size:6.35px">V1.0.3
+           style="font-size:6.35px">V1.0.4
 </tspan></tspan><tspan
          x="-117.12109"
          y="214.55381"><tspan
@@ -567,5 +494,412 @@
          x="-117.12109"
          y="222.49131"><tspan
            style="font-size:6.35px">github/telamon/oxytox</tspan></tspan></text>
+    <g
+       id="g1113"
+       transform="matrix(0.26458333,0,0,0.26458333,137.63322,53.995656)">
+      <g
+         id="color">
+        <path
+           fill="#92d3f5"
+           d="m 17,57.606813 v -4 c 0,-4.9941 5.0078,-9 10,-9 6,5 12,5 18,0 4.9941,0 10,4.0059 10,9 v 4"
+           id="path1069" />
+      </g>
+      <g
+         id="hair">
+        <path
+           fill="#a57939"
+           d="m 26,39 c -4,0 -4,-6 -4,-13 0,-7 4,-14 14,-14 10,0 14,7 14,14 0,7 0,13 -4,13"
+           id="path1072" />
+      </g>
+      <g
+         id="skin">
+        <path
+           fill="#fadcbc"
+           d="m 24.9365,31 c 0,9 4.9365,14 11,14 C 41.873,45 47,40 47,31 c 0,-3 -1,-5.0005 -1,-5.0005 -3,-2.9995 -7,-8 -7,-8 -4,3 -7,6 -13,7.0005 0,0 -1.0635,0.9995 -1.0635,6 z"
+           id="path1075" />
+      </g>
+      <g
+         id="skin-shadow" />
+      <g
+         id="line">
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 26,39 c -4,0 -4,-6 -4,-13 0,-7 4,-14 14,-14 10,0 14,7 14,14 0,7 0,13 -4,13"
+           id="path1079"
+           style="stroke:#845016;stroke-opacity:1" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 17,56.606813 v -3 c 0,-4.9941 5.0078,-9 10,-9 6,5 12,5 18,0 4.9941,0 10,4.0059 10,9 v 3"
+           id="path1081"
+           style="stroke:#045eb3;stroke-opacity:1" />
+        <path
+           d="m 41.873,30 c 0,1.1045 -0.8955,2 -2,2 -1.1044,0 -2,-0.8955 -2,-2 0,-1.1045 0.8956,-2 2,-2 1.1045,0 2,0.8955 2,2"
+           id="path1083"
+           style="fill:#6d16c2;fill-opacity:1;stroke:none;stroke-width:0.66666668;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="m 33.873,30 c 0,1.1045 -0.8955,2 -2,2 -1.1044,0 -2,-0.8955 -2,-2 0,-1.1045 0.8956,-2 2,-2 1.1045,0 2,0.8955 2,2"
+           id="path1085"
+           style="fill:#6d16c2;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.66666668;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 24.9365,31 c 0,9 4.9365,14 11,14 C 41.873,45 47,40 47,31 c 0,-3 -1,-5.0005 -1,-5.0005 -3,-2.9995 -7,-8 -7,-8 -4,3 -7,6 -13,7.0005 0,0 -1.0635,0.9995 -1.0635,6 z"
+           id="path1087"
+           style="stroke:#d18546;stroke-opacity:1" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 33,38 c 1.9385,0.9385 4,1 6,0"
+           id="path1089"
+           style="stroke:#dd7f5e;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g1195-2-5"
+       transform="matrix(0.20422408,0,0,0.20422408,121.1069,70.709495)">
+      <g
+         id="color-4-6-8">
+        <circle
+           cx="35.904701"
+           cy="36.013802"
+           r="27.0345"
+           fill="#fcea2b"
+           id="circle1148-3-1"
+           style="fill:url(#linearGradient1654);fill-opacity:1" />
+        <circle
+           cx="36.005798"
+           cy="36.0369"
+           r="21.870899"
+           fill="#ffffff"
+           id="circle1150-5-3" />
+      </g>
+      <g
+         id="line-2-4-8">
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="M 55.1092,25.38 A 21.8626,21.8626 0 1 1 47.0154,17.1349"
+           id="path1153-5-3" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="M 62.9392,35.9973 A 27.0463,27.0463 0 1 1 57.6742,19.9591"
+           id="path1155-2-4" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           points="47.394 21.578 58.432 20.418 57.272 9.38"
+           id="polyline1157-8-8" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           points="49.975 36.354 35.987 36.354 35.891 36.354 35.891 18.52"
+           id="polyline1159-8-6" />
+        <line
+           x1="35.890598"
+           x2="35.890598"
+           y1="53.910599"
+           y2="50.066101"
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="line1161-5-3" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           points="21.143 36.354 18.086 36.354 18.086 36.354"
+           id="polyline1163-3-7" />
+        <circle
+           cx="35.890598"
+           cy="36.353802"
+           r="3.7370999"
+           id="circle1165-0-7" />
+        <circle
+           cx="48.693802"
+           cy="47.937099"
+           r="1.4802001"
+           id="circle1167-3-3" />
+        <circle
+           cx="23.087299"
+           cy="24.717199"
+           r="1.4802001"
+           id="circle1169-2-1" />
+        <circle
+           cx="23.087299"
+           cy="47.937099"
+           r="1.4802001"
+           id="circle1171-5-0" />
+      </g>
+    </g>
+    <g
+       id="g1195-2-5-6"
+       transform="matrix(0.20422408,0,0,0.20422408,100.07233,110.39792)">
+      <g
+         id="color-4-6-8-1">
+        <circle
+           cx="35.904701"
+           cy="36.013802"
+           r="27.0345"
+           fill="#fcea2b"
+           id="circle1148-3-1-1"
+           style="fill:url(#linearGradient1732);fill-opacity:1" />
+        <circle
+           cx="36.005798"
+           cy="36.0369"
+           r="21.870899"
+           fill="#ffffff"
+           id="circle1150-5-3-7" />
+      </g>
+      <g
+         id="line-2-4-8-9">
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="M 55.1092,25.38 A 21.8626,21.8626 0 1 1 47.0154,17.1349"
+           id="path1153-5-3-2" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="M 62.9392,35.9973 A 27.0463,27.0463 0 1 1 57.6742,19.9591"
+           id="path1155-2-4-4" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           points="47.394 21.578 58.432 20.418 57.272 9.38"
+           id="polyline1157-8-8-7" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           points="49.975 36.354 35.987 36.354 35.891 36.354 35.891 18.52"
+           id="polyline1159-8-6-6" />
+        <line
+           x1="35.890598"
+           x2="35.890598"
+           y1="53.910599"
+           y2="50.066101"
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="line1161-5-3-0" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           points="21.143 36.354 18.086 36.354 18.086 36.354"
+           id="polyline1163-3-7-6" />
+        <circle
+           cx="35.890598"
+           cy="36.353802"
+           r="3.7370999"
+           id="circle1165-0-7-3" />
+        <circle
+           cx="48.693802"
+           cy="47.937099"
+           r="1.4802001"
+           id="circle1167-3-3-4" />
+        <circle
+           cx="23.087299"
+           cy="24.717199"
+           r="1.4802001"
+           id="circle1169-2-1-8" />
+        <circle
+           cx="23.087299"
+           cy="47.937099"
+           r="1.4802001"
+           id="circle1171-5-0-8" />
+      </g>
+    </g>
+    <g
+       id="g1113-9"
+       transform="matrix(0.26458333,0,0,0.26458333,112.57317,120.47031)">
+      <g
+         id="color-3">
+        <path
+           fill="#92d3f5"
+           d="m 17,57.606813 v -4 c 0,-4.9941 5.0078,-9 10,-9 6,5 12,5 18,0 4.9941,0 10,4.0059 10,9 v 4"
+           id="path1069-6" />
+      </g>
+      <g
+         id="hair-0">
+        <path
+           fill="#a57939"
+           d="m 26,39 c -4,0 -4,-6 -4,-13 0,-7 4,-14 14,-14 10,0 14,7 14,14 0,7 0,13 -4,13"
+           id="path1072-9" />
+      </g>
+      <g
+         id="skin-7">
+        <path
+           fill="#fadcbc"
+           d="m 24.9365,31 c 0,9 4.9365,14 11,14 C 41.873,45 47,40 47,31 c 0,-3 -1,-5.0005 -1,-5.0005 -3,-2.9995 -7,-8 -7,-8 -4,3 -7,6 -13,7.0005 0,0 -1.0635,0.9995 -1.0635,6 z"
+           id="path1075-6" />
+      </g>
+      <g
+         id="skin-shadow-4" />
+      <g
+         id="line-0">
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 26,39 c -4,0 -4,-6 -4,-13 0,-7 4,-14 14,-14 10,0 14,7 14,14 0,7 0,13 -4,13"
+           id="path1079-9"
+           style="stroke:#845016;stroke-opacity:1" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 17,56.606813 v -3 c 0,-4.9941 5.0078,-9 10,-9 6,5 12,5 18,0 4.9941,0 10,4.0059 10,9 v 3"
+           id="path1081-5"
+           style="stroke:#045eb3;stroke-opacity:1" />
+        <path
+           d="m 41.873,30 c 0,1.1045 -0.8955,2 -2,2 -1.1044,0 -2,-0.8955 -2,-2 0,-1.1045 0.8956,-2 2,-2 1.1045,0 2,0.8955 2,2"
+           id="path1083-9"
+           style="fill:#6d16c2;fill-opacity:1;stroke:none;stroke-width:0.666667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="m 33.873,30 c 0,1.1045 -0.8955,2 -2,2 -1.1044,0 -2,-0.8955 -2,-2 0,-1.1045 0.8956,-2 2,-2 1.1045,0 2,0.8955 2,2"
+           id="path1085-3"
+           style="fill:#6d16c2;fill-opacity:1;stroke:none;stroke-width:0.666667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 24.9365,31 c 0,9 4.9365,14 11,14 C 41.873,45 47,40 47,31 c 0,-3 -1,-5.0005 -1,-5.0005 -3,-2.9995 -7,-8 -7,-8 -4,3 -7,6 -13,7.0005 0,0 -1.0635,0.9995 -1.0635,6 z"
+           id="path1087-7"
+           style="stroke:#d18546;stroke-opacity:1" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 33,38 c 1.9385,0.9385 4,1 6,0"
+           id="path1089-7"
+           style="stroke:#dd7f5e;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g1113-4"
+       transform="matrix(0.26458333,0,0,0.26458333,90.760423,161.43572)">
+      <g
+         id="color-9">
+        <path
+           fill="#92d3f5"
+           d="m 17,57.606813 v -4 c 0,-4.9941 5.0078,-9 10,-9 6,5 12,5 18,0 4.9941,0 10,4.0059 10,9 v 4"
+           id="path1069-0" />
+      </g>
+      <g
+         id="hair-7">
+        <path
+           fill="#a57939"
+           d="m 26,39 c -4,0 -4,-6 -4,-13 0,-7 4,-14 14,-14 10,0 14,7 14,14 0,7 0,13 -4,13"
+           id="path1072-1" />
+      </g>
+      <g
+         id="skin-5">
+        <path
+           fill="#fadcbc"
+           d="m 24.9365,31 c 0,9 4.9365,14 11,14 C 41.873,45 47,40 47,31 c 0,-3 -1,-5.0005 -1,-5.0005 -3,-2.9995 -7,-8 -7,-8 -4,3 -7,6 -13,7.0005 0,0 -1.0635,0.9995 -1.0635,6 z"
+           id="path1075-5" />
+      </g>
+      <g
+         id="skin-shadow-49" />
+      <g
+         id="line-6">
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 26,39 c -4,0 -4,-6 -4,-13 0,-7 4,-14 14,-14 10,0 14,7 14,14 0,7 0,13 -4,13"
+           id="path1079-4"
+           style="stroke:#845016;stroke-opacity:1" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 17,56.606813 v -3 c 0,-4.9941 5.0078,-9 10,-9 6,5 12,5 18,0 4.9941,0 10,4.0059 10,9 v 3"
+           id="path1081-51"
+           style="stroke:#045eb3;stroke-opacity:1" />
+        <path
+           d="m 41.873,30 c 0,1.1045 -0.8955,2 -2,2 -1.1044,0 -2,-0.8955 -2,-2 0,-1.1045 0.8956,-2 2,-2 1.1045,0 2,0.8955 2,2"
+           id="path1083-1"
+           style="fill:#6d16c2;fill-opacity:1;stroke:none;stroke-width:0.666667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="m 33.873,30 c 0,1.1045 -0.8955,2 -2,2 -1.1044,0 -2,-0.8955 -2,-2 0,-1.1045 0.8956,-2 2,-2 1.1045,0 2,0.8955 2,2"
+           id="path1085-1"
+           style="fill:#6d16c2;fill-opacity:1;stroke:none;stroke-width:0.666667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 24.9365,31 c 0,9 4.9365,14 11,14 C 41.873,45 47,40 47,31 c 0,-3 -1,-5.0005 -1,-5.0005 -3,-2.9995 -7,-8 -7,-8 -4,3 -7,6 -13,7.0005 0,0 -1.0635,0.9995 -1.0635,6 z"
+           id="path1087-4"
+           style="stroke:#d18546;stroke-opacity:1" />
+        <path
+           fill="none"
+           stroke="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 33,38 c 1.9385,0.9385 4,1 6,0"
+           id="path1089-5"
+           style="stroke:#dd7f5e;stroke-opacity:1" />
+      </g>
+    </g>
   </g>
 </svg>
