@@ -28,7 +28,6 @@ we propose to inject a decentralized hug virus into the meme-stream.
 **Expected outcome:**
 - stimulate social function
 - maintain relations
-- induce mutual oxytocin release
 - mitigate negative effects of social distancing
 
 ## Quickstart / Walkthru
@@ -58,7 +57,7 @@ You should now both be experiencing a mutual euphoric rush that can be observed 
 
 ## The Game
 
-[Direct link](https://github.com/telamon/oxytox/raw/master/oxytox-v1.0.3.png)
+[Direct link](https://github.com/telamon/oxytox/raw/master/oxytox-v1.0.4.png)
 
 ![oxytox](./oxytox-v1.0.3.png)
 
