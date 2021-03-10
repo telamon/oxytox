@@ -15,7 +15,7 @@
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="oxytox.svg"
-   inkscape:export-filename="C:\Users\telamohn\Downloads\oxytox-v1.0.4.png"
+   inkscape:export-filename="C:\Users\telamohn\Downloads\oxytox-v1.0.5.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -88,8 +88,8 @@
     <rect
        x="47.841244"
        y="8.2853556"
-       width="78.483622"
-       height="48.973823"
+       width="93.380131"
+       height="50.037859"
        id="rect845-0-7" />
     <rect
        x="47.841244"
@@ -231,9 +231,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99464023"
-     inkscape:cx="186.8782"
-     inkscape:cy="452.42697"
+     inkscape:zoom="0.70331685"
+     inkscape:cx="139.85477"
+     inkscape:cy="335.7038"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -357,10 +357,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;line-height:1.25;font-family:Modak;-inkscape-font-specification:Modak;text-align:center;white-space:pre;shape-inside:url(#rect845-0-7);fill:#fd94f2;fill-opacity:0.907258;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
        x="68.605415"
        y="0"
-       transform="translate(18.283339,-9.8179593)"><tspan
-         x="49.335747"
-         y="26.005509"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Modak;-inkscape-font-specification:Modak;text-align:center;text-anchor:middle;fill:#fd94f2;fill-opacity:0.907258">0xyTox</tspan></tspan></text>
+       transform="translate(10.303067,-10.817451)"><tspan
+         x="54.519928"
+         y="29.281578"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;text-anchor:middle;fill:#fd94f2;fill-opacity:0.907258">OX</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One'">yt</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;text-anchor:middle;fill:#fd94f2;fill-opacity:0.907258">OX</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text843-8"
@@ -377,14 +379,14 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;white-space:pre;shape-inside:url(#rect845-7);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
        x="68.605415"
        y="0"
-       transform="translate(-17.043967,10.426813)"><tspan
+       transform="translate(-16.29158,12.307781)"><tspan
          x="69.719803"
          y="18.783367"><tspan>Artificial Hug Game</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text849-0-1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect851-7-5);fill:#2a0067;fill-opacity:1;stroke:none;"
-       transform="translate(65.819097,3.1958163)"><tspan
+       transform="translate(66.571484,5.0767845)"><tspan
          x="5.6132812"
          y="35.018652"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';shape-inside:url(#rect851-7-5)">If it's awkward, it works!</tspan></tspan></text>
@@ -485,7 +487,7 @@
        transform="translate(118.44701,-11.674806)"><tspan
          x="-117.12109"
          y="206.61631"><tspan
-           style="font-size:6.35px">V1.0.4
+           style="font-size:6.35px">V1.0.5
 </tspan></tspan><tspan
          x="-117.12109"
          y="214.55381"><tspan
