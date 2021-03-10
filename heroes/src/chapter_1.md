@@ -5,21 +5,26 @@
 **HoX** is an experimental social meta-game to combat
 `stress`, `exhaustion` and `depression`.
 We've crafted it with love and care so that it can be enjoyed by everybody,
-even those of us that lost their torch and are wandering the **Dungeons of Despair**.
+even those of us that lost their torch and are wandering in the dark.
 
-> No app nor installation needed, but a smartphone with a camera is a good first step.
+> No app nor installation needed, but a smartphone with a camera is a good to have.
 
 **Don't worry** and most importantly **Have Fun!**
 
 ## Introduction
 
+We all know that it's dangerous to go alone so you got to recruit
+a party and prepare yourselves to raid the **Dungeons of Despair**
+where the mythical sword **Twister of Destiny** is said to be buried.
 
+Take a look at the quest board and pick anyone you like.
 
 ## Quest Board
 
 As a beginner you're entitled to the `E` difficulty quests.
-It's not very important to keep track of your progress
-in the beginning. Remembering if you've done a quest or not is enough.
+It's not important to keep track of your progress
+in the beginning. 
+Remembering if you've done a quest or not is enough, the rest can be summarized later
 
 > Quests marked with a `D` may be repeated once per day.
 
