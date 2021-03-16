@@ -30,11 +30,9 @@ in the beginning.
 | Tag | Description                          |
 |-----|--------------------------------------|
 | `P` | Primary quest line                   |
-| `D` | Dark magic                           |
-| `W` | White magic                          |
-| `U` | Can only be accomplished once.       |
 | `H` | Dark magic (use at your own risk)    |
 | `L` | White magic                          |
+| `U` | Can only be accomplished once.       |
 | `D` | May be repeated once a day.          |
 | `W` | May be repeated once a week          |
 | `B` | May be repeated once every two weeks |
@@ -44,47 +42,62 @@ in the beginning.
 ## E-Quests (`no prerequistie`)
 
 ### "Dude! Where's my tank?!" `[PHDT]`
-_Rewards:_ `50 exp`, Shout: **Help! Lvl1**
+_Rewards:_ `50 Exp`, `Shout: Help! Lvl1`
 
-Identify your **tank** and share a **medium secret**.
+> Identify your **tank** and share a **medium secret**.
 
 ### Summon a Minion `[PLUT]`
-_Rewards:_ `50 exp`, Spell: **Summon Minion Lv1**
+_Rewards:_ `50 Exp`, `Spell: Summon Minion Lv1`
 
-Successfully perform the **[Ritual of Offline Dominion](./dominion.md)**
+> Successfully perform the **[Ritual of Offline Dominion](./dominion.md)**
 
 ### Still Alive! `[D]`
-_Rewards:_ `20 exp`
+_Rewards:_ `20 Exp`
 
-Exchange an **oxytox** with someone close.
+> Exchange an **oxytox** with someone close.
 
-### Staredown `[D]`
-_Rewards:_ `5 exp`
+### Staredown `[HD]`
+_Rewards:_ `5 Exp`
 
-Summon your **minion** and stare it down in silence
-wearing a neutral expression.
+> Summon your **minion** and stare it down in silence
+> while wearing a neutral expression.
 
 ### Medic! `[PLD]`
-_Rewards:_ `20 exp`
+_Rewards:_ `20 Exp`
 
-Hangout with a friend, offline or online.
+> Spend 1 hour with a **friend** (off/on-line)
 
 ### Spiders are icky
-- `05 EXP` [Quest: Share a tiny secret]()
+_Rewards:_ `20 Exp`
 
-Share a **puny secret**.
+> Share a **tiny secret** friend.
 
-#### D-tier quests (minimum `500 EXP`)
+## D-Quests (minimum `500 Exp`)
+
+### Minion Hangout lvl2 `[HD]`
+_Rewards:_ `20 Exp`
+
+> Hang out with your **minion** and tell it
+> a short summary of your day.
+
+### Minion Hangout lvl3 `[HD]`
+
+Rewards: `20 Exp`, `Skill: Listening Lv1`
+
+> Order the **minion** to replay the **recording**.
+>
+> Bonus `10 Exp` if you can spot a new **secret**.
+
 
 - `20 EXP` [Quest: Daily Minion lvl2]()
-- `100 EXP`[Quest: Recruit a healer]() (Weekly healer)
+- `100 EExp`[Quest: Recruit a healer]() (Weekly healer)
 - `40 EXP` [Quest: Share a medium secret]()
 - `50 EXP` [Quest: bi-weekly tank-]()
 
 #### C-tier quests (minimum `5000 EXP`)
 - [Quest: Minion lvl3]() (paper cutout)
 - [Quest: Make quest]()
-- [Quest: For Never Alone]() 
+- [Quest: For Never Alone]()  (Accumulate 4 weekly pacts)
 
 #### B-tier quests (minimum `20000 EXP`)
 #### A-tier quests (minimum `60000 EXP`)

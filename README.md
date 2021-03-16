@@ -1,34 +1,29 @@
-_Release notes_
-```
-Hello World!
-We have a somewhat early 🎁 for you.
+# oxytox - Artificial hugs for everyone
 
-It's an experimental social game that lets you send
-real hugs over the internet.✨
-
-Challenge someone you're comfortable with
-or just pm an oxytox to someone who could use it.
-
-Directly after you've exchanged cyberhugs, replay your recording followed
-by X's recording.
-When the awkwardness starts dissapearing, do you feel the "oxytoxies"?
-If your answer was "yes", can you explain why? 🤓
-
-Merry Christmas! /DecentLabs 🎅
-⬇️⬇️⬇️ The Game ⬇️⬇️⬇️
-```
-
-# oxytox
-
-> Artificial hugs for everyone
+> Experimental social p2p meta-game of trust
 
 In our nonrelenting fight against long term depression,
 we propose to inject a decentralized hug virus into the meme-stream.
 
 **Expected outcome:**
+
 - stimulate social function
+- Oxytocin &amp; Dopamine loop hack
 - maintain relations
 - mitigate negative effects of social distancing
+
+> **Update 2021** In order to receive long-term positive effects
+> make a minimum of 4 weekly pacts with people that are important to you.
+> Together agree on a weekday and do a trial run for 2 months
+> exchanging oxytoxies once a week. (It's only gonna cost both of you minimum 8 seconds of your life).
+> If you enjoy it, then become best peers forever 👌
+>
+> An expansion pack is in the works, check back
+> once a week.
+
+The most influental reference for this game is:
+[The Evolution of Trust](https://ncase.me/trust/)
+Try it out, and pretend that each exchange is an oxytox instead of a coin.
 
 ## Quickstart / Walkthru
 
@@ -43,8 +38,8 @@ Then follow up with:
 (Just don't forget to send the rules/image first or things will get more awkward
 than necessary.🤦)
 
-After you've sent the rules and recording enter radio-silence (upto 10 minutes), trust your co-player to figure whats expected of them without further hints.
-(It is natural to humans to mimic each other's behaviour.)
+After you've sent the rules and recording enter radio-silence (upto 2 hours), trust your co-player to figure whats expected of them without further hints.
+(It is very natural to humans to mimic each other's behaviour.)
 
 Once you've received their recording, rewatch both recordings starting with yours then theirs, then exit radio-silence.
 
@@ -52,7 +47,7 @@ You should now both be experiencing a mutual euphoric rush that can be observed 
 
 
 **First time players:**
-- X: pick someone you've shared a hug with before.
+- X: pick someone you've shared a _real_ hug with before.
 - Y: 2-3s is a good value.
 
 ## The Game
