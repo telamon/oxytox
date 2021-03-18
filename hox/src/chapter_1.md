@@ -41,12 +41,12 @@ in the beginning.
 
 ## E-Quests (`no prerequistie`)
 
-### "Dude! Where's my tank?!" `[PHDT]`
+### "Dude! Where's my tank?!" `[PLDT]`
 _Rewards:_ `50 Exp`, `Shout: Help! Lvl1`
 
 > Identify your **tank** and share a **medium secret**.
 
-### Summon a Minion `[PLUT]`
+### Summon a Minion `[PHUT]`
 _Rewards:_ `50 Exp`, `Spell: Summon Minion Lv1`
 
 > Successfully perform the **[Ritual of Offline Dominion](./dominion.md)**
