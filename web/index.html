@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width,initial-scale=1'>
+    <title>oxytox</title>
+    <meta name="description" content="Close the distance">
+    <!---
+      LICENSE: AGPL-version-3
+
+      ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+      Hello Developer!
+      If you are reading this, it means that you have found your way
+      to the mothermodem - the heart of a the server in the clouds.
+
+      ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+      _____                      _   _           _
+      |  __ \                    | | | |         | |
+      | |  | | ___  ___ ___ _ __ | |_| |     __ _| |__  ___   ___  ___
+      | |  | |/ _ \/ __/ _ \ '_ \| __| |    / _` | '_ \/ __| / __|/ _ \
+      | |__| |  __/ (_|  __/ | | | |_| |___| (_| | |_) \__ \_\__ \  __/
+      |_____/ \___|\___\___|_| |_|\__|______\__,_|_.__/|___(_)___/\___|
+      ~ PRESENTS ~
+
+      Name:           oxytox.me
+      Type:           Belief-system (digital anti-depressant)
+      Year:           2021
+      Size:           180k
+      nFuks given:    5/5
+      MinRes:         320px
+
+      ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+
+      Hello World!
+
+      I don't know how to cure virii or produce TP, but I can
+      engineer their digital counterpart.
+      This one is designed to attack your "meh"-recepticles
+      and stimulate your _PERCEPTION_ of reality.
+
+      Survive and don't get stuck in comfty~
+      / telam0hn <telamohn@pm.me>
+
+      Github: https://github.com/telamon/oxytox
+      Discord: https://discord.gg/K5XjmZx
+      Patreon: https://www.patreon.com/decentlabs
+
+      ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*-->
+
+      <!--<link rel='icon' type='image/png' href='/favicon.png'>-->
+      <!-- inline public/global.css -->
+      <style>
+:root {
+  --pink: rgb(75, 36, 102);
+  --chalk: #ebe8f1;
+  --lavender: #d29fc6;
+  --shadow: rgb(75, 36, 102);
+  --hotpink: rgb(237, 33, 124);
+}
+body {
+  margin: 0;
+  /*background: purple;*/
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background: linear-gradient(to top, cyan,  blue 50%, purple 100%);
+}
+
+#online {
+  display: flex;
+  justify-content: space-around;
+}
+
+chat {
+  margin: 10px;
+  border-radius: 45px;
+  max-width: 40%;
+  display: block;
+  border: 9px solid black;
+  /* padding: 4px 10px;*/
+  background-color: #191520;
+  overflow: hidden;
+  color: var(--chalk);
+}
+chat a { color: var(--chalk); }
+chat a:hover { color: var(--hotpink); }
+
+chat lens {
+  display: block;
+  text-align: center;
+  background-color: black;
+  padding: 0px 0 2px;
+  margin: 0;
+  font-size: larger;
+  color: #5c238c;
+}
+lens eye {
+  display: inline-block;
+  transform: scaleX(-1.0);
+  animation: 8s linear 0s infinite both behold;
+}
+@keyframes behold {
+  0% { transform: scale(-1, 1); }
+  40% { transform: scale(-1, 1) rotate(0deg); }
+  50% { transform: scale(-1, 1) rotate(-180deg); }
+  55% { transform: scale(-1, 1) rotate(0deg); }
+  98% { transform: scale(-1, 1); }
+  99% { transform: scale(-1, 0); }
+  100% { transform: scale(-1, 1); }
+}
+
+red, blue { display: flex; }
+red { justify-content: flex-end; }
+blue { justify-content: flex-start; }
+red t , blue t, red img, blue img {
+  display: inline-block;
+  max-width: 80%;
+  background: gray;
+  border-radius: 6px;
+  padding: 4px 8px;
+  margin: 4px 20px 4px 20px;
+  white-space: wrap;
+}
+chat img {
+  max-width: 300px;
+  padding: 2px;
+}
+red t, red img { background-color: #564875; }
+blue t, blue img { background-color: #272131; }
+week {
+  margin-top: 10px;
+  font-size: larger;
+  display: block;
+  text-align: center;
+}
+mood {
+  display: block;
+  font-family: monospace;
+  text-align: center;
+  margin: 12px 0;
+  font-size: larger;
+}
+mood t {
+  display: inline-block;
+  text-align: center;
+  whitespace: no-wrap;
+  background-color: var(--hotpink);
+  color: var(--shadow);
+  transform: rotate(90deg);
+  border-radius: 100%;
+  font-size: 3em;
+  border: 2px solid var(--chalk);
+  animation: idle 1.5s infinite ease-in-out alternate;
+  font-family: Helvetica;
+}
+mood small {
+  font-size: 0.4em;
+  font-weight: bold;
+}
+mood.inv t { transform: rotate(270deg) scaleY(-1); }
+mood.nor t { transform: rotate(0deg); }
+
+  </style>
+  <script>
+  </script>
+  </head>
+  <body>
+    <section id="offline">
+      <current-mood></current-mood>
+    </section>
+    <section id="online">
+      <chat>
+        <lens><eye>©</eye></lens>
+        <week>Someday, Week 0</week>
+        <mood><t>:<small>|</small></t></mood>
+        <red><t>Hey</t></red>
+        <blue><t>Hey dude! Haven't heard from you in a while, how you doin?</t></blue>
+        <red><t>I'm ok</t></red>
+        <red><t>Um.. I found this wierd game...</t></red>
+        <red>
+          <a href="https://raw.githubusercontent.com/telamon/oxytox/master/oxytox-v1.0.5.png">
+            <img src="https://raw.githubusercontent.com/telamon/oxytox/master/oxytox-v1.0.5.png"/>
+          </a>
+        </red>
+        <red><t>Wanna play?</t></red>
+        <mood><t>:<small>&lt;</small></t></mood>
+        <!--<pause>3</pause>
+        <typing>1</typing>
+        <pause>1</pause>
+        <typing>1</typing>
+        <pause>1</pause>-->
+        <blue><t>Awkward you say?</t></blue>
+        <!--<typing>1</typing>
+        <pause>1</pause>-->
+        <blue><t>Is it gonna be cringy?</t></blue>
+        <mood><t>:/</t></mood>
+        <red delay="1" rewrites="3"><t>yeah... most likeley, you in?</t></red>
+        <blue><t>Sure! you first</t></blue>
+        <!--<pause>5</pause>-->
+        <red><img src="./red_1_1.png"></red>
+        <blue><img src="./blue_1_2.png"></blue>
+        <mood class="nor"><t>-<small>v</small>-</t></mood>
+        <blue><t>ok what now?</t></blue>
+        <red><t>I don't know, there was <a href="https://github.com/telamon/oxytox/">too much info</a></t></red>
+        <!--<mood><t>:<small>&lt;</small></t></mood>-->
+        <blue><t>Your head got bigger since the last time I saw you</t></blue>
+        <mood><t><small>&gt;</small>:(</t></mood>
+        <red><t>Wdym? It's the same size as always!</t></red>
+        <red><t>Maybe it's yours that shrunk!</t></red>
+        <mood><t>:(</t></mood>
+        <blue><t>*ouch*</t></blue>
+        <blue><t>Just wanted to say that it's good to see you bro</t></blue>
+        <mood class="inv"><t>&nbsp;:</t></mood>
+        <red><t>Thanks, it's really good to see you too.</t></red>
+        <mood><t>:<small>&gt;</small></t></mood>
+      </chat>
+    </section>
+  </body>
+</html>
