@@ -2,8 +2,10 @@
 
 > Experimental social p2p meta-game of trust
 
-In our nonrelenting fight against long term depression,
+In our nonrelenting fight against exhaustion and depression,
 we propose to inject a decentralized hug virus into the meme-stream.
+
+[https://oxytox.co](https://oxytox.co)
 
 **Expected outcome:**
 
