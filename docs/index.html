@@ -164,6 +164,28 @@ mood small {
 }
 mood.inv t { transform: rotate(270deg) scaleY(-1); }
 mood.nor t { transform: rotate(0deg); }
+counter {
+  display: block;
+  text-align: center;
+  margin-top: 0.4em;
+}
+
+:root {
+  --counterborder: #0f0000;
+}
+counter d {
+  display: inline-block;
+  background: rgba(0, 0, 0, 0) linear-gradient(#054146 0%, #010811 100%) no-repeat;
+  color: lime; /* A drop of lime to bring out the annoyumami */
+  margin: 0;
+  padding: 0.2em 0.4em;
+  border-radius: 2px;
+  border: 1px solid var(--counterborder);
+  border-left: none;
+}
+counter d:first-child {
+  border: 1px solid var(--counterborder);
+}
   </style>
   <script>
   </script>
@@ -174,6 +196,9 @@ mood.nor t { transform: rotate(0deg); }
       <current-mood></current-mood>
     </section>
     -->
+    <counter>
+      <d>0</d><d>0</d><d>0</d><d>0</d><d>1</d>
+    </counter>
     <longphone>
       <chat>
         <lens><eye>©</eye></lens>
@@ -240,5 +265,6 @@ mood.nor t { transform: rotate(0deg); }
         </episode>
       </chat>
     </longphone>
+    <script async defer type="text/javascript" src="https://analytics.ostr.io/o9gP6Y6KWy8W3Agmx.js"></script>
   </body>
 </html>
