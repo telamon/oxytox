@@ -1,6 +1,10 @@
 # oxytox - Artificial hugs for everyone
 
-> Experimental social p2p meta-game of trust
+**2024-11-03**
+
+This project has ended.
+
+> Experimental social meta game
 
 In our nonrelenting fight against exhaustion and depression,
 we propose to inject a decentralized hug virus into the meme-stream.
