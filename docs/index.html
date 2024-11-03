@@ -22,7 +22,7 @@
       |_____/ \___|\___\___|_| |_|\__|______\__,_|_.__/|___(_)___/\___|
       ~ PRESENTS ~
 
-      Name:           Super Pill Bros 64
+      Name:           OXytOX
       Type:           Belief-system (digital anti-depressant)
       Year:           2021
       Size:           180k
@@ -36,14 +36,13 @@
       I don't know how to cure virii or produce TP, but I can
       engineer their digital counterpart.
       This one is designed to attack your "meh"-recepticles
-      and stimulate your _PERCEPTION_ of reality.
+      and stimulate your perception of reality.
 
       Survive and don't get stuck in comfty~
       / telam0hn <telamohn@pm.me>
 
       Github: https://github.com/telamon/oxytox
       Discord: https://discord.gg/K5XjmZx
-      Patreon: https://www.patreon.com/decentlabs
 
       ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*-->
 
@@ -107,10 +106,10 @@ lens eye {
   100% { transform: scale(-1, 1); }
 }
 
-red, blue { display: flex; }
+red, blue, rngod { display: flex; }
 red { justify-content: flex-end; }
 blue { justify-content: flex-start; }
-red t , blue t, red img, blue img {
+red t , blue t, rngod t, red img, blue img {
   display: inline-block;
   max-width: 80%;
   background: gray;
@@ -120,8 +119,12 @@ red t , blue t, red img, blue img {
   white-space: wrap;
 }
 chat img {
-  max-width: 300px;
+  max-width: 200px;
   padding: 2px;
+  max-height: 200px;
+  font-family: monospace;
+  text-align: center;
+  color: red;
 }
 red t, red img { background-color: #564875; }
 blue t, blue img { background-color: #272131; }
@@ -186,9 +189,97 @@ counter d {
 counter d:first-child {
   border: 1px solid var(--counterborder);
 }
+
+/* Ep3 addons, new feature, glitches */
+:root {
+  --anger: #f00;
+  --calm: purple;
+  --angryTime: 2s;
+}
+rngod {
+  justify-content: center;
+  background: var(--anger);
+  padding: 1em 0;
+  /* animation: 2s ease-in-out 0s 50 backwards vibe; */
+
+  animation: 2s steps(2) 0s 1 forwards vanish;
+}
+rngod t {
+  border-radius: 0;
+  background-color: #000;
+  color: var(--anger);
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 24px;
+  text-align: center;
+  animation: var(--angryTime) linear 0s 1 forwards fury;
+}
+@keyframes fury {
+  0% { transform: skew(2deg) scale(1.5); }
+  100% {
+    transform: skew(-2deg);
+    display: none;
+  }
+}
+
+body.glitch1 { animation: var(--angryTime) ease-in 0s shitgoesdown; }
+@keyframes shitgoesdown {
+  0% {
+    filter: blur(2px) invert();
+  }
+  2% {
+    filter: blur(2px);
+  }
+  4% {
+    filter: blur(5px) invert();
+  }
+  100% { filter: none; }
+}
+@keyframes vibe {
+  0% { transform: skew(-2deg) scale(1.0); }
+  50% { transform: skew(2deg) scale(1.06); }
+  100% { transform: skew(0deg) scale(1.0); }
+}
+@keyframes vanish {
+  0% { display: flex; }
+  100% { display: none; }
+}
+splash {
+  margin-top: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+splash img { animation: 1s ease-in 0s forwards unsplash; }
+@keyframes unsplash {
+  0% {
+    max-width: 100%;
+  }
+  100% {
+    max-width: 25%;
+  }
+}
+splash h1 { font-size: 4em; }
+splash h1, splash code, bleh code {
+  font-family: monospace;
+  color: #f6dcd9;
+  text-shadow: 2px 0 9px salmon;
+}
+splash card {
+  background-color: #fa807257;
+  padding: 0 1em;
+  margin-bottom: 3em;
+}
+splash strong, splash b {
+  font-color: white;
+}
+
+bleh { text-align: center; margin-top: 2em; display: block; }
   </style>
-  <script>
-  </script>
   </head>
   <body>
     <!-- TODO: Wanted to this to contain the red guy sitting in a chair with his phone.
@@ -196,9 +287,47 @@ counter d:first-child {
       <current-mood></current-mood>
     </section>
     -->
-    <counter>
-      <d>0</d><d>0</d><d>0</d><d>0</d><d>1</d>
-    </counter>
+    <splash>
+      <img src="./sunrize2.svg"/>
+
+      <h1>[GAME OVER]</h1>
+      <pre><code>2024-11-03 (sign off)</code></pre>
+      <card>
+      <p>
+      If you received a card, 
+      then</br> <b>sorry but the game is already over</b>.<br/>
+      This was a social meta-game that was active between
+      2021 to 2022, during lockdowns.<br/>
+      </p>
+
+      <p>
+      Oxytox was inspired by digital dopamine feedback loops<br/>
+      like instagram/reels and other such stims.<br/>
+      <br/>
+
+      In short, the question was:<br/>
+      "Can you stimulate oxytocine release using a phone?"
+      <br/>
+      <br/>
+
+
+      Turns out <strong>yes!</strong> You can!<br/>
+      but regular hugs are more efficent/recommended.
+      </p>
+
+      <p>With that said.
+      <i><strong>Thank you!</strong><br/>
+        Yes you.<br/> You who still hold a card.<br/>
+        You who played a silly game and you who<br/>
+        every now and then remembers to ping your buddies.<br/>
+        You are amazing!</i> 🙂 😊<br/>
+        /tony
+      </p>
+      </card>
+    </splash>
+
+    <bleh><pre><code>2021-03-02 (original release)</code></pre></bleh>
+
     <longphone>
       <chat>
         <lens><eye>©</eye></lens>
@@ -252,16 +381,16 @@ counter d:first-child {
           <red><t>Thanks, it's really good to see you too.</t></red>
           <mood><t>:<small>&gt;</small></t></mood>
         </episode>
-
+        <!--
         <episode id="1">
           <week>Week 1, Someday</week>
           <red>
             <img src="./contrib/red_2_1_YOUR_NAME.png"
-                 alt="Red waves with a bit more energy, expectations high">
+                 alt="&lt;Video recording&gt; Red waves with a bit more energy, expectations high">
             </red>
           <blue>
             <img src="./contrib/blue_2_2_YOUR_NAME.png"
-                 alt="Blue gives a tired smile and waves back">
+                 alt="&lt;Video recording&gt; Blue gives a tired smile and waves back">
           </blue>
           <red><t>It's been a week...</t></red>
           <blue><t>Yeah</t></blue>
@@ -279,27 +408,46 @@ counter d:first-child {
           <week>Week 2, Someday</week>
           <red>
             <img src="./contrib/red_3_1_YOUR_NAME.png"
-                 alt="Red looks dissapointed/reluctant">
+                 alt="&lt;Video recording&gt; Red looks a bit reluctant">
           </red>
           <blue>
             <img src="./contrib/blue_3_2_YOUR_NAME.png"
-                 alt="Blue looks rested">
+                 alt="&lt;Video recording&gt; Blue looks rested">
           </blue>
           <blue><t>Sup buddy, what are you upto?</t></blue>
           <red>
-            <t>I've playing the new MWO classic they restored everything
-            the way it used to be. TODO
+            <t>I've playing the new HoaX classic they restored everything
+            the way it used to be before the expansions were released
+            and the continents got reworked.
             </t>
           </red>
           <blue><t>Oh really?</t></blue>
-          <red>TODO</red>
+          <red>
+            <t>
+            Yeah I rolled a thief and my backstab crits are over 9000 now with the dagger from MHW,<br/>
+            <small>
+              once i get the cloak from shadows temple I'm gonna get dualproc for both
+              offhand and then the<br/>
+              <small>chaos restance will rise +500 that's needed<br/>
+                to raid the final DoD on tanking the 8th interval of 3rd boss
+                using
+                I can raid tank t
+              </small>
+            </small>
+
+            </t>
+          </red>
           <blue><t>Pretty cool</t></blue>
           <red><t>Hey man, you look somehow better today</t></red>
           <blue><t>Thanks, last week was a bit rough</t></blue>
           <red><t>Oh, did something happen?</t></red>
           <blue><t>Yeah, my cat had some health issues</t></blue>
           <red><t>Wait you still have that cat? The one with the dogs name?</t></red>
-          <blue><t>Can't remember it</t></red>
+          <red><t>Can't remember it</t></red>
+          <blue>
+            <img src="./contrib/blue_3_laika_YOUR_NAME.png"
+                 alt="Picture of a sleeping cat">
+          </blue>
           <blue><t>Laika</t></blue>
           <red><t>Wow I'm surprised to hear she's still kickin'</t></red>
           <blue><t>Well... maybe not for much longer</t></blue>
@@ -323,59 +471,39 @@ counter d:first-child {
             Huh? Naw man.. Fishing back in the days was the best.
             Freaking loved it.
           </t></blue>
-          <rngod>
-            If you want moving pictures then make it,
-            and they will be witnessed at the top of the angular mountain.
-            <!-- NOTE TO FUTURE SELF: FINISH SCRIPT AND CSS BY SUNDAY; LEAVE THIS PART AS IS!
-              No I'm not joking, I need a couple of hands to continue this project.
-              And as far as I am concerned, this is the most dumbfun brilliant idea I've had
-              so far.
-              So I'm not giving up.
-
-              Besides If those bastards at kurtzgewhatever can crowdfund yet another
-              episode of depression,
-              then I can craft one block of entertainment.
-              Just gotta make it real low-fi...
-
-              Please donate your cash or time I don't care which,
-              but don't touch this file.
-              It's mine.
-
-              Ok... Now that we've had this talk...
-
-              I have left you some alts
-              Any PR that fixes the broken images will be accepted,
-              the one that most looks like you weren't even trying stays linked.
-              New winners every week. (Story week that is)
-              If you have any better suggestions then let me hear it, my email is in the header.
-
-
-              ...
-              ...
-
-              About the money thing.. I don't really want it.
-              But I need to eventually quit my dayjob to stop this workaholic madness
-              and build something very useful: https://tomodachi150.surge.sh/
-              So if you choose to, then don't donate too much or I'm gonna buy myself a
-              sleek car and pickup girls instead of working.
-              And if you don't then enjoy the alts :thumbsup:
-
-              Thanks 🙏
-            -->
-          </rngod>
-          <red>Eeeh wtf?111</red>
-          <red>Did you see that?</red>
+          <red><t>Eeeh wtf?111</t></red>
+          <red><t>Did you see that?</t></red>
           <blue><t>What?</t></blue>
-          <red>Some kind of weird glitch</red>
+          <red><t>Some kind of weird glitch</t></red>
           <blue><t>Eeh? no</t></blue>
-          <red>Uh really? Some creepy text just flashed by</red>
-          <red>Hang on i think i need to restart my phone</red>
+          <red><t>Uh really? Some creepy text just flashed by</t></red>
+          <red><t>Hang on i think i need to restart my phone</t></red>
           <blue><t>Dude, you been playing too much WMO</t></blue>
           <blue><t>I'm gonna go sleep, you take a break</t></blue>
-          <red>Sleep well</red>
-        </episode>
+          <red><t>Sleep well</t></red>
+        </episode>-->
       </chat>
     </longphone>
+    <counter>
+      <d>0</d><d>0</d><d>1</d><d>5</d><d>0</d>
+    </counter>
+    <br/>
+    <br/>
+    <script>
+      function unused() {
+        const body = window.document.body
+        const observer = new IntersectionObserver((entries, observer) => {
+          for (const { target, isIntersecting } of entries) {
+            if (!isIntersecting) continue
+            target.classList.add('glitch')
+            body.classList.add('glitch1')
+          }
+        }, { threshold: 1.0 })
+        for (const target of document.querySelectorAll('rngod')) {
+          observer.observe(target)
+        }
+      }
+    </script>
     <script async defer type="text/javascript" src="https://analytics.ostr.io/o9gP6Y6KWy8W3Agmx.js"></script>
   </body>
 </html>
