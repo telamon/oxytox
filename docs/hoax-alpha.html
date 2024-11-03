@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width,initial-scale=1'>
+    <title>HOaX</title>
+    <meta name="description" content="Heroes of Oxytonia">
+    <style>
+relic, ritual {
+  display: block;
+  border: 1px groove black;
+  padding: 2em;
+  margin: 1em;
+}
+
+relic title, ritual title {
+  display: block;
+  font-weight: bold;
+}
+passive, active {
+  display: block;
+}
+passive mod {
+  display: list-item;
+  margin-left: 2em;
+}
+slot, description { display: block; }
+slot:before {
+  content: 'Slot: ';
+  font-size: smaller;
+}
+description:before {
+  content: 'Description: ';
+  font-size: smaller;
+}
+
+passive:before {
+  content: 'Passive: ';
+  font-size: smaller;
+}
+    </style>
+  </head>
+  <body>
+    <relic>
+      <title>Relic: Bandana against Bullshit</title>
+      <description>Crown of the forgotten</description>
+      <slot>Left wrist</slot>
+      <passive>
+        <mod>-10% Walk Speed</mod>
+        <mod>+2 Light Zen</mod>
+        <mod>+? ???</mod>
+      </passive>
+      <active>
+        <skill>
+          <name>[Slow walk]</name>
+          <description>
+        </skill>
+        <skill>[Morph: ???]</skill>
+      </active>
+    </relic>
+
+    <relic>
+      <title>Relic: Old Man</title>
+      <description>Looks like an old dollar bill, where did it come from and why is it here?</description>
+      <slot>Wallet</slot>
+      <passive>
+        <mod>+1 Luck (cumulative / day)</mod>
+        <mod>+5 C¤!$ &lt;?D@*63r&gt;</mod>
+      </passive>
+    </relic>
+
+    <relic>
+      <title>Relic: Fades</title>
+      <description>Don't look directly at the sun</description>
+      <active> [Stealth]
+        Trigger: **Stop talking**, longer you stay silent the deeper you fade,
+        next spoken word has 3x critical damage
+        + 5 stealth (
+      </active>
+
+    </relic>
+    <ritual>
+      <title>Ritual: Summon Minion</title>
+      <description><i>``Day 245-n: I've made a remarkable discovery, transmitting a message through a near time loop triggers a dissonance response, the feedback grows stronger every time the experiment is replicated.
+        Almost as if there's a secondary cognition trying to break through time phase´´</i></description>
+      <mod>+19% Resistance Dissonance (5min)</mod>
+      <mod>+10 Dark Zen</mod>
+    </ritual>
+
+    <ritual>
+      <title>Ritual: OXytOX</title>
+      <description><i>``Day 0: She saw herself through his eyes and found the soul anchor still intact´´</i></description>
+      <mod>+20% Dissonance Res. (1h)</mod>
+      <mod>+2 Light Zen</mod>
+    </ritual>
+  </body>
+</html>
+
